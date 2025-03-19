@@ -16,3 +16,6 @@
 - Never forgot something important in your works
 - Easy to organize your information
 - Easy to find stored information
+
+---
+Made with ❤️ by Nae for Abbonion
