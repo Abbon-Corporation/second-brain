@@ -1,0 +1,228 @@
+{
+  "workspaces": {
+    "Starter": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "ef0f4274e39cdca4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df17fb1565f0dc1f",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "HOME.canvas",
+                    "viewState": {
+                      "x": -180,
+                      "y": 130,
+                      "zoom": -0.2317911193386976
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "HOME"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "033576a6b33dff69",
+        "type": "split",
+        "children": [
+          {
+            "id": "b454898db4c8f945",
+            "type": "tabs",
+            "dimension": 42.58001939864209,
+            "children": [
+              {
+                "id": "84f717612dca405e",
+                "type": "leaf",
+                "state": {
+                  "type": "periodic-para",
+                  "state": {},
+                  "icon": "zap",
+                  "title": "LifeOS"
+                }
+              }
+            ]
+          },
+          {
+            "id": "84e30e37024d9f2a",
+            "type": "tabs",
+            "dimension": 57.41998060135791,
+            "children": [
+              {
+                "id": "318abbbcd7749f6f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "cc8540b919f4ee67",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#company-info",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "9b78bc0e4508fc3f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": "se"
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "e2f9ecf537a853a4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 368.5
+      },
+      "right": {
+        "id": "e909704c2c67d329",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d590967b738185b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bfe60a9c435028cc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0. PeriodicNotes/Templates/Quarterly.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Quarterly 的出链列表"
+                }
+              },
+              {
+                "id": "6d086e2d3fce45ca",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "HOME.canvas",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of HOME"
+                }
+              },
+              {
+                "id": "fdf26b19b598132b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0. PeriodicNotes/Templates/Quarterly.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Quarterly 的反向链接列表"
+                }
+              },
+              {
+                "id": "14a387d228e8b0a8",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "24876b9ed6a3891b",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 356.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "daily-notes:Open today's daily note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-para:LifeOS Creation": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-git:Open Git source control": false
+        }
+      },
+      "active": "df17fb1565f0dc1f",
+      "mtime": "2025-03-20T01:20:26+07:00"
+    }
+  },
+  "active": "Starter"
+}

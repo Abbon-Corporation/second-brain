@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4b052a8198d254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4512ecb89b420ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HOME.canvas",
+                "viewState": {
+                  "x": -180,
+                  "y": 130,
+                  "zoom": -0.2333635391574511
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "HOME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "033576a6b33dff69",
+    "type": "split",
+    "children": [
+      {
+        "id": "b454898db4c8f945",
+        "type": "tabs",
+        "dimension": 42.58001939864209,
+        "children": [
+          {
+            "id": "84f717612dca405e",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-para",
+              "state": {},
+              "icon": "zap",
+              "title": "LifeOS"
+            }
+          }
+        ]
+      },
+      {
+        "id": "84e30e37024d9f2a",
+        "type": "tabs",
+        "dimension": 57.41998060135791,
+        "children": [
+          {
+            "id": "318abbbcd7749f6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc8540b919f4ee67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#company-info",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b78bc0e4508fc3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "se"
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2f9ecf537a853a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "e909704c2c67d329",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d590967b738185b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe60a9c435028cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. PeriodicNotes/Templates/Quarterly.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Quarterly 的出链列表"
+            }
+          },
+          {
+            "id": "6d086e2d3fce45ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HOME.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HOME"
+            }
+          },
+          {
+            "id": "fdf26b19b598132b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. PeriodicNotes/Templates/Quarterly.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Quarterly 的反向链接列表"
+            }
+          },
+          {
+            "id": "14a387d228e8b0a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "24876b9ed6a3891b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "306aaf4ea188f672",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-para:LifeOS Creation": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "a4512ecb89b420ab",
+  "lastOpenFiles": [
+    "4. Archives/F.md",
+    "4. Archives/Abbon short note.md",
+    "4. Archives/1-1 session.md",
+    "4. Archives/1-1 session Piti.md",
+    "4. Archives/1-1 session F.md",
+    "4. Archives/DCA Money Chart.md",
+    "4. Archives/chart/chart.README.md",
+    "Excalidraw/Drawing 2025-03-20 01.53.32.excalidraw.md",
+    "HOME.canvas",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "3. Resources/DCA/DCA.README.md",
+    "0. PeriodicNotes/2025/Daily/03/2025-03-19.md",
+    "3. Resources/secret/secret.README.md",
+    "4. Archives/Binance GB Account.md",
+    "4. Archives/TMA short notes.md",
+    "0. PeriodicNotes/2025/Daily/03/2025-03-20.md",
+    "3. Resources/account/account.README.md",
+    "3. Resources/Template.md",
+    "README.md",
+    "2. Areas/Abbon address.md",
+    "1. Projects/tma/tma.README.md",
+    "1. Projects/dca/dca.README.md",
+    "1. Projects/second-brain/second-brain.README.md",
+    "0. PeriodicNotes/2025/Daily/03/SecondBrain.md",
+    "1. Projects/second-brain",
+    "0. PeriodicNotes/2025/Daily/03/MSM.md",
+    "0. PeriodicNotes/2025/Daily/03/DCA.md",
+    "0. PeriodicNotes/2025/Daily/03/TMA.md",
+    "2. Areas/personal-improvement",
+    "2. Areas/company-info",
+    "3. Resources/personal-info",
+    "4. Archives/Personal",
+    "4. Archives/company",
+    "3. Resources/secret",
+    "4. Archives/Screenshot 2024-12-17 at 11.52.36.png",
+    "4. Archives/Screenshot 2025-02-27 at 15.50.42.png",
+    "1. Projects/personal-brand-wot-sharing-meeting/architecture diagram/Polyrepo.svg",
+    "1. Projects/personal-brand-wot-sharing-meeting/architecture diagram/Monorepo.svg",
+    "Screenshot 2025-02-27 at 15.50.42.png",
+    "4. Archives/parenting-take-a-name/baby-name.png",
+    "4. Archives/parenting-take-a-name/林奕如.png",
+    "1. Projects/personal-brand-wot-sharing-meeting/Attachments/PPT 素材/warning.svg",
+    "1. Projects/personal-brand-wot-sharing-meeting/Attachments/PPT 素材/warning.png",
+    "主页.canvas",
+    "Templates/HOME.canvas",
+    "hello/HOME.canvas",
+    "hello/Templates/HOME.canvas"
+  ]
+}

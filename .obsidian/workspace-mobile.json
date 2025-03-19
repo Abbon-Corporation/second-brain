@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "112ad9b7b1b60603",
+    "type": "split",
+    "children": [
+      {
+        "id": "62348467264b56cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69853b10c22c662a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HOME.canvas",
+                "viewState": {
+                  "x": -158.72773536895673,
+                  "y": 151.27226463104324,
+                  "zoom": -1.0889736298222765
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HOME"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "922a20389108c783",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a757207ef1f59a54",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "df120ce6330f64af",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a7cb18f976b5cf03",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f9baa611358fbb45",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "98e25a25619cdae0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "af005d1fe2807372",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "594017832b42e52e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "HOME.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bc910d2088dd213b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "HOME.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f58b6cb3f98a1f84",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "HOME.canvas",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "908fb3dd42cb8c18",
+        "type": "leaf",
+        "state": {
+          "type": "periodic-para",
+          "state": {},
+          "icon": "zap",
+          "title": "LifeOS"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "periodic-para:LifeOS Creation": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "69853b10c22c662a",
+  "lastOpenFiles": [
+    "1. Projects/second-brain/second-brain.README.md",
+    "1. Projects/second-brain",
+    "1. Projects/dca/dca.README.md",
+    "1. Projects/dca",
+    "1. Projects/msm/msm.README.md",
+    "1. Projects/msm",
+    "1. Projects/tma/tma.README.md",
+    "1. Projects/tma",
+    "2. Areas/Bar.md",
+    "2. Areas/Home address.md",
+    "2. Areas/Abbon address.md",
+    "2. Areas/personal-improvement/personal-improvement.README.md",
+    "2. Areas/personal-improvement",
+    "2. Areas/company-info/company-info.README.md",
+    "2. Areas/company-info",
+    "2. Areas/Sexual Market Value (SMV).md",
+    "2. Areas/Chat.md",
+    "2. Areas/Pub.md",
+    "2. Areas/knowledge-management/knowledge-management.README.md",
+    "2. Areas/knowledge-management",
+    "Excalidraw",
+    "3. Resources/personal-info/personal-info.README.md",
+    "3. Resources/personal-info",
+    "4. Archives/company/company.README.md",
+    "4. Archives/company",
+    "4. Archives/1-1 session Piti.md",
+    "4. Archives/Piti.md",
+    "4. Archives/MSM Short note.md",
+    "4. Archives/Deployment step.md",
+    "4. Archives/1-1 session F.md",
+    "4. Archives/NATO phonetic alphabet.md",
+    "4. Archives/Nae.md",
+    "4. Archives/Retro sprint 3 17-12-2024.md",
+    "4. Archives/เตรียมของ.md",
+    "4. Archives/chart/chart.README.md",
+    "4. Archives/สรุปคำตอบ 03-01-2025.md",
+    "4. Archives/Screenshot 2024-12-17 at 11.52.36.png",
+    "HOME.canvas"
+  ]
+}

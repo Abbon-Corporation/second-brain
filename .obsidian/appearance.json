@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "HideMarkdownEmbedTitle",
+    "MultiColumn",
+    "ImageWidth",
+    "Checkboxes",
+    "DoneTaskInEditingMode"
+  ],
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "translucency": false,
+  "interfaceFontFamily": "Cartograph CF",
+  "textFontFamily": "Cartograph CF",
+  "monospaceFontFamily": "Cartograph CF"
+}
