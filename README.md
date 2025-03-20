@@ -1,4 +1,4 @@
-# A second brain project using PARA method + Periodical notes
+# A second brain project using PARA method + Periodic notes
 
 ## Feature
 - Jot down random things in daily note then use tags to group it
