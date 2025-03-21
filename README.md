@@ -19,4 +19,5 @@
 
 ---
 Made with ❤️ by Nae for Abbonion
+---
 Heavily modified from [LifeOS](https://github.com/quanru/obsidian-example-LifeOS)
