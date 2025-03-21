@@ -17,6 +17,14 @@
 - Easy to organize your information
 - Easy to find stored information
 
+## Setup step by step
+- Download [Obsidian](https://obsidian.md/download)
+- Click code download as zip
+- Extract zip at your desire location
+- Open Obsidian
+- Open folder as Vault
+- Config plugin & theme if you want
+
 ---
 Made with ❤️ by Nae for Abbonion
 ---
