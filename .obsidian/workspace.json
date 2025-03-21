@@ -204,8 +204,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -217,7 +217,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -225,9 +224,10 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-para:LifeOS Creation": false,
       "templater-obsidian:Templater": false,
+      "periodic-para:LifeOS Creation": false,
       "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
       "soundscapes:Soundscapes: My Music": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false
